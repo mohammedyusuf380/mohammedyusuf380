@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Grpc**
 
-- 🌱 I’m currently learning **💻 I'm currently exploring the exciting world of cloud computing stacks, diving deep into platforms like AWS, Azure, and Google Cloud.**
+- I'm currently exploring the exciting world of cloud computing stacks, diving deep into platforms like AWS, Azure, and Google Cloud.**
 
-- 👯 I’m looking to collaborate on **. 🌐 As an active open-source contributor, I believe in the power of collaboration and the collective wisdom of the community.**
+- 👯 As I'm active open-source contributor, I believe in the power of collaboration and the collective wisdom of the community.**
 
 - 🤝 I’m looking for help with **. 🌱 Learning is my superpower! I'm constantly expanding my knowledge and honing my skills in cloud technologies to stay ahead of the curve.**
 
